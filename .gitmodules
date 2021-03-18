@@ -1,0 +1,3 @@
+[submodule "bookclub/alux-web-apidev"]
+	path = bookclub/alux-web-apidev
+	url = https://github.com/brugambwa/alux-web-apidev.git
